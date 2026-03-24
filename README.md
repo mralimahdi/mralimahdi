@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Syed Ali Mahdi</h1>
+<h1 align="center">Hello 👋, I'm Syed Ali Mahdi Jaffri</h1>
 <h3 align="center">Graphic Designer | Video Editor | Computer Science Student (Machine Learning)</h3>
 
 <p align="center">
@@ -49,18 +49,18 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=mralimahdi&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mralimahdi&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mralimahdi&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 📈 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mralimahdi&theme=tokyo-night"/>
 
 ---
 
@@ -83,4 +83,4 @@
 
 ---
 
-⭐ From [SyedAliMahdi](https://github.com/YOUR_USERNAME)
+⭐ From [SyedAliMahdi](https://github.com/mralimahdi)
