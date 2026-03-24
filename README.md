@@ -66,9 +66,8 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: (add link)
-- Portfolio: (add link)
-- Email: (add email)
+- Design Portfolio: (https://www.behance.net/mindlinestudio)
+- Email: (mr.syedalimahdi1234@gmail.com)
 
 ---
 
