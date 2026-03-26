@@ -2,7 +2,7 @@
 <h3 align="center">Graphic Designer | Video Editor | Computer Science Student (Machine Learning)</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=Machine+Learning+Enthusiast;Frontend+Developer;Creative+Designer;Video+Editor" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=2563EB&center=true&vCenter=true&lines=Machine+Learning+Enthusiast;Frontend+Developer;Creative+Designer;Video+Editor" />
 </p>
 
 ---
@@ -10,13 +10,13 @@
 ## 👨‍💻 About Me
 
 <details>
-<summary>Click to expand</summary>
+<summary><b>Click to expand</b></summary>
 
-- 🎓 Computer Science student (ML specialization)
-- 🎨 Graphic Designer & Video Editor
-- 💻 Learning Full Stack Development
-- 🚀 Interested in Computer Vision & AI
-- 🌍 Open to collaboration on tech + creative projects
+* 🎓 Computer Science student (Machine Learning specialization)
+* 🎨 Graphic Designer & Video Editor
+* 💻 Currently learning Full-Stack Development
+* 🤖 Interested in Computer Vision & Artificial Intelligence
+* 🤝 Open to collaboration on technical and creative projects
 
 </details>
 
@@ -26,57 +26,66 @@
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7C948?style=for-the-badge\&logo=javascript\&logoColor=black)
 
 ### Web Development
 
-![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
 
-### Tools
+### Creative Tools
 
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github)
-![Photoshop](https://img.shields.io/badge/Photoshop-blue?style=for-the-badge&logo=adobephotoshop)
-![Premiere Pro](https://img.shields.io/badge/PremierePro-purple?style=for-the-badge&logo=adobepremierepro)
+![Photoshop](https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge\&logo=adobephotoshop\&logoColor=31A8FF)
+![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-2A0034?style=for-the-badge\&logo=adobepremierepro\&logoColor=9999FF)
+
+### Development Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge\&logo=github\&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mralimahdi&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mralimahdi&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=mralimahdi&show_icons=true&theme=default" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mralimahdi&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mralimahdi&theme=default" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mralimahdi&layout=compact&theme=default" />
+
 </p>
 
 ---
 
 ## 📈 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mralimahdi&theme=tokyo-night"/>
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mralimahdi&theme=github-light"/>
+
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-- Design Portfolio: (https://www.behance.net/mindlinestudio)
-- Email: (mr.syedalimahdi1234@gmail.com)
+* 🎨 Portfolio: https://www.behance.net/mindlinestudio
+* 📧 Email: [mr.syedalimahdi1234@gmail.com](mailto:mr.syedalimahdi1234@gmail.com)
 
 ---
 
 ## ⚡ Fun Section
 
 <details>
-<summary>Click for a surprise</summary>
+<summary><b>Click for a surprise</b></summary>
 
-💡 I combine **technology + creativity** to build smart and beautiful digital experiences.
+💡 I combine **technology + creativity** to design intelligent and visually engaging digital experiences.
 
 </details>
 
