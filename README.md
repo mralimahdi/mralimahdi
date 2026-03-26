@@ -55,7 +55,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=mralimahdi&show_icons=true&theme=default" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mralimahdi&theme=default" />
+<img src="https://streak-stats.demolab.com?user=mralimahdi&theme=default" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mralimahdi&layout=compact&theme=default" />
 
