@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Syed Ali Mahdi Jaffri</h1>
-<h3 align="center">Graphic Designer | Video Editor | Computer Science Student (Machine Learning)</h3>
+<h3 align="center">Computer Science Student</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=2563EB&center=true&vCenter=true&lines=Machine+Learning+Enthusiast;Frontend+Developer;Creative+Designer;Video+Editor" />
