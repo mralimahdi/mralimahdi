@@ -30,7 +30,6 @@
 
 <p>
   <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=60A5FA" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-0F172A?style=for-the-badge&logo=openjdk&logoColor=60A5FA" alt="Java" />
   <img src="https://img.shields.io/badge/C++-0F172A?style=for-the-badge&logo=cplusplus&logoColor=60A5FA" alt="C++" />
   <img src="https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=60A5FA" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=60A5FA" alt="HTML5" />
@@ -38,9 +37,19 @@
   <img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=node.js&logoColor=60A5FA" alt="Node.js" />
   <img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=60A5FA" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=60A5FA" alt="GitHub" />
+  <img src="https://img.shields.io/badge/MongoDB-0F172A?style=for-the-badge&logo=mongodb&logoColor=60A5FA" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=60A5FA" alt="React" />
+</p>
+
+## Creative Stack
+
+<p>
   <img src="https://img.shields.io/badge/Photoshop-0F172A?style=for-the-badge&logo=adobephotoshop&logoColor=60A5FA" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Illustrator-0F172A?style=for-the-badge&logo=adobeillustrator&logoColor=60A5FA" alt="Illustrator" />
+  <img src="https://img.shields.io/badge/After_Effects-0F172A?style=for-the-badge&logo=adobeaftereffects&logoColor=60A5FA" alt="After Effects" />
   <img src="https://img.shields.io/badge/Premiere_Pro-0F172A?style=for-the-badge&logo=adobepremierepro&logoColor=60A5FA" alt="Premiere Pro" />
 </p>
+
 
 ## GitHub Overview
 
