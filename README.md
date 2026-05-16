@@ -54,7 +54,6 @@
 ## GitHub Overview
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mralimahdi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=60A5FA&text_color=CBD5E1&icon_color=60A5FA" alt="GitHub stats" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=mralimahdi&theme=tokyonight&hide_border=true&background=00000000&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA" alt="GitHub streak" />
 </p>
 
