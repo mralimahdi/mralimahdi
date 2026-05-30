@@ -29,15 +29,15 @@ I am a final-year Computer Science student at Arid Agriculture University, speci
 
 ## Featured Projects
 
-- **[Personal Portfolio Website](https://mralimahdi.github.io/)** *(Live)*
+- **[Personal Portfolio Website](https://mralimahdi.github.io/Personal-Portfolio-Website/)** *(Live)*
   - A responsive portfolio showcasing my technical projects and design work.
   - *Tech: HTML, CSS, JavaScript, Git*
 
-- **[E-commerce Strawberry Farm App](https://github.com/mralimahdi/strawberry_web)**
+- **[E-commerce Strawberry Farm App]**
   - A full-stack MERN application featuring tour bookings, product management, and an admin dashboard.
   - *Tech: Node.js, Express.js, MongoDB, EJS/Frontend*
 
-- **[Gender Classifier using Deep Learning](https://github.com/mralimahdi/GENDER-CLASSIFIER-CV)**
+- **[Gender Classifier using Deep Learning]**
   - Implementation of transfer learning using VGG16, MobileNetV2, and custom CNN architectures for image classification.
   - *Tech: Python, TensorFlow/PyTorch, CV*
 
