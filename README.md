@@ -1,8 +1,8 @@
 <h1 align="center">Syed Ali Mahdi Jaffri</h1>
-<p align="center"><strong>Computer Science Student</strong> • <strong>Machine Learning Enthusiast</strong> • <strong>Creative Technologist</strong></p>
+<p align="center"><strong>AI Engineer & BSCS Student</strong> | <strong>Full-Stack Developer</strong> | <strong>Creative Technologist</strong></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=900&color=60A5FA&center=true&vCenter=true&width=760&lines=Learning+by+building;Machine+Learning+%2B+Frontend+Development;Design%2C+code%2C+and+creative+problem+solving" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=900&color=60A5FA&center=true&vCenter=true&width=760&lines=Building+Intelligent+Web+Solutions;AI+Engineer+%2B+MERN+Stack+Developer;Bridging+Design+and+Code" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -15,41 +15,31 @@
 
 ## About Me
 
-- Computer Science student focused on Machine Learning and modern web development.
-- Interested in Computer Vision, full-stack development, and clean UI work.
-- Comfortable blending technical projects with design and visual creativity.
-- Open to collaboration on student projects, frontend builds, and creative tech work.
+I am a final-year Computer Science student at Arid Agriculture University, specializing in Artificial Intelligence. My work bridges the gap between complex AI/ML models and functional, high-end web applications. I am passionate about MERN stack development and leveraging Computer Vision to solve real-world problems.
 
-## Current Focus
+- **Current Focus:** Seeking internship opportunities to apply my skills in AI engineering and Full-stack development.
+- **Interests:** Computer Vision, NLP, MERN Stack, and UI/UX Design.
 
-- Strengthening practical full-stack skills through projects.
-- Learning more about machine learning workflows and computer vision.
-- Building work that feels both functional and visually polished.
+## Technical Skills
 
-## Tech Stack
+- **Languages:** Python, C++, JavaScript
+- **Web Development:** MERN Stack (Node.js, Express.js, MongoDB), HTML5, CSS3, React
+- **AI/ML:** Computer Vision, NLP, VGG16, YOLO, MobileNetV2
+- **Creative Suite:** Adobe Illustrator, Photoshop, After Effects, Premiere Pro, Figma
 
-<p>
-  <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=60A5FA" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-0F172A?style=for-the-badge&logo=cplusplus&logoColor=60A5FA" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=60A5FA" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=60A5FA" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=60A5FA" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=node.js&logoColor=60A5FA" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=60A5FA" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=60A5FA" alt="GitHub" />
-  <img src="https://img.shields.io/badge/MongoDB-0F172A?style=for-the-badge&logo=mongodb&logoColor=60A5FA" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=60A5FA" alt="React" />
-</p>
+## Featured Projects
 
-## Creative Stack
+- **[Personal Portfolio Website](https://mralimahdi.github.io/)** *(Live)*
+  - A responsive portfolio showcasing my technical projects and design work.
+  - *Tech: HTML, CSS, JavaScript, Git*
 
-<p>
-  <img src="https://img.shields.io/badge/Photoshop-0F172A?style=for-the-badge&logo=adobephotoshop&logoColor=60A5FA" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/Illustrator-0F172A?style=for-the-badge&logo=adobeillustrator&logoColor=60A5FA" alt="Illustrator" />
-  <img src="https://img.shields.io/badge/After_Effects-0F172A?style=for-the-badge&logo=adobeaftereffects&logoColor=60A5FA" alt="After Effects" />
-  <img src="https://img.shields.io/badge/Premiere_Pro-0F172A?style=for-the-badge&logo=adobepremierepro&logoColor=60A5FA" alt="Premiere Pro" />
-</p>
+- **[E-commerce Strawberry Farm App](https://github.com/mralimahdi/strawberry_web)**
+  - A full-stack MERN application featuring tour bookings, product management, and an admin dashboard.
+  - *Tech: Node.js, Express.js, MongoDB, EJS/Frontend*
 
+- **[Gender Classifier using Deep Learning](https://github.com/mralimahdi/GENDER-CLASSIFIER-CV)**
+  - Implementation of transfer learning using VGG16, MobileNetV2, and custom CNN architectures for image classification.
+  - *Tech: Python, TensorFlow/PyTorch, CV*
 
 ## GitHub Overview
 
@@ -57,19 +47,11 @@
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=mralimahdi&theme=tokyonight&hide_border=true&background=00000000&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA" alt="GitHub streak" />
 </p>
 
-## Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mralimahdi&theme=github-dark&hide_border=true&bg_color=00000000&color=93C5FD&line=60A5FA&point=BFDBFE" alt="Activity graph" />
-</p>
-
 ## Connect
 
-<p>
-  <a href="https://www.behance.net/mindlinestudio">Behance</a><br/>
-  <a href="mailto:mr.syedalimahdi1234@gmail.com">mr.syedalimahdi1234@gmail.com</a>
-</p>
+- **Email:** mr.syedalimahdi1234@gmail.com
+- **Phone:** +92-336-5519188
+- **Behance:** [mindlinestudio](https://www.behance.net/mindlinestudio)
 
 ---
-
-<p align="center">From <a href="https://github.com/mralimahdi">mralimahdi</a></p>
+<p align="center">© 2026 Syed Ali Mahdi Jaffri</p>
