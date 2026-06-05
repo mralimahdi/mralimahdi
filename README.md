@@ -1,5 +1,5 @@
 <h1 align="center">Syed Ali Mahdi Jaffri</h1>
-<p align="center"><strong>AI Engineer & BSCS Student</strong> | <strong>Full-Stack Developer</strong> | <strong>Creative Technologist</strong></p>
+<p align="center"><strong>AI Engineer & BSCS Student</strong> | <strong>MERN-Stack Developer</strong> | <strong>Creative Technologist</strong></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=900&color=60A5FA&center=true&vCenter=true&width=760&lines=Building+Intelligent+Web+Solutions;AI+Engineer+%2B+MERN+Stack+Developer;Bridging+Design+and+Code" alt="Typing animation" />
