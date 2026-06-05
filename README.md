@@ -51,6 +51,7 @@ I am a final-year Computer Science student at Arid Agriculture University, speci
 
 - **Email:** mr.syedalimahdi1234@gmail.com
 - **Phone:** +92-336-5519188
+- **Linkdin** (https://www.linkedin.com/in/syedalimahdijaffri)
 - **Behance:** [mindlinestudio](https://www.behance.net/mindlinestudio)
 
 ---
